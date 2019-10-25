@@ -1,7 +1,7 @@
 
 
 
-RSpec.configure do |config|
+#RSpec.configure do |config|
   config.expect_with :rspec do |expectations|
   end
   # rspec-mocks config goes here. You can use an alternate test double
